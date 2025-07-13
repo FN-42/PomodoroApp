@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd35350c-9d34-46df-9306-6eaff69b0ea9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/appendSession.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tableSessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tableSessions.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd35350c-9d34-46df-9306-6eaff69b0ea9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +76,7 @@
       <workItem from="1752253782197" duration="1369000" />
       <workItem from="1752256786370" duration="68000" />
       <workItem from="1752257446075" duration="928000" />
-      <workItem from="1752311831528" duration="1708000" />
+      <workItem from="1752311831528" duration="2029000" />
     </task>
     <servers />
   </component>
@@ -90,6 +85,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PomodoroApp$main.coverage" NAME="main Coverage Results" MODIFIED="1752313539701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PomodoroApp$tableSessions.coverage" NAME="tableSessions Coverage Results" MODIFIED="1752312280048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PomodoroApp$tableSessions.coverage" NAME="tableSessions Coverage Results" MODIFIED="1752313720874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
